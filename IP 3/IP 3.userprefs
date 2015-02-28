@@ -1,15 +1,11 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ChangeScene.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\MouseDrag.cs">
     <Files>
-      <File FileName="Assets/Scripts/Movement.cs" Line="25" Column="5" />
-      <File FileName="Assets/Scripts/Rotate.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/ChangeScene.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/DestroyByBoundry.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/DestroyByTime.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/DestroyByContact.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/ExitScene.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/GameController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameController.cs" Line="50" Column="1" />
+      <File FileName="Assets\Scripts\DestroyByContact.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DestroyByBoundry.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MouseDrag.cs" Line="4" Column="23" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

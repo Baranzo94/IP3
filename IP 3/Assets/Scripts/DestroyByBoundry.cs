@@ -1,15 +1,10 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class DestroyByBoundry : MonoBehaviour {
-
-	// Use this for initialization
-	void Start () {
-	
-	}
-	
-	// Update is called once per frame
-	void Update () {
-	
+public class DestroyByBoundry : MonoBehaviour
+{
+	void OnTriggerExit(Collider other)
+	{
+		Destroy(other.gameObject);
 	}
 }
